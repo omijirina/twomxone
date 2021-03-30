@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://twomxone.vercel.app/"
 languageCode = "en"
 title = "Twomxone"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+34643880015"
 email = "kamos@gmail.com"
 location = "Av. San Juan de la Peña, 125, 50015 Zaragoza, Spain"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://twomxone.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
