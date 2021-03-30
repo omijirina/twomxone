@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = ""
 languageCode = "en"
-title = "Ninyy"
+title = "Twomxone"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -94,9 +94,9 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "+34643880015"
+email = "kamos@gmail.com"
+location = "Av. San Juan de la Peña, 125, 50015 Zaragoza, Spain"
 # copyright
 copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 # Snipcart Credentials
