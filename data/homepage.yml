@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema de día antiedad que restaura el volumen perdido de la piel del rostro."
+  title : "Crema diaria anti-envejecimiento"
   content : "Para combatir eficazmente los cambios relacionados con la edad en la piel del rostro, es necesario, en primer lugar, pensar profundamente. Los científicos de hoy han llegado a la conclusión de que la clave para la juventud y la firmeza de la piel radica en una hidratación intensa, que apoya el metabolismo natural."
   image : "images/banner.png"
   # button
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "Acerca de nuestro producto"
-  content : "Un súper humectante reconocido es el ácido hialurónico, que puede unir grandes cantidades de agua, evitando así la sequedad, la opacidad y las arrugas."
+  content : "La piel sedosa, tonificada y suave es un resultado fácil de lograr con la crema de cuidado diario Slow Age SPF 30 de la reconocida marca francesa Vichy. Con cada aplicación, el producto cosmético transforma la piel, perfeccionándola y dándole un brillo saludable."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "Cómo utilizar el producto?"
-  content : "Aplicar la cantidad necesaria de crema en el rostro con suaves movimientos de masaje."
+  content : "aplicar sobre la piel limpia por la mañana, evitar el área alrededor de los ojos"
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -89,26 +89,26 @@ testimonial:
     - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      content : "Buenas tardes, compré esta crema, es buena solo para pieles secas. Tiene una estructura gruesa pero huele bien."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Ana Pankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
+      content : "La crema se agregará más. No sé a qué aferrarse) Efecto, textura e impresión del milagro aplicado. Mi amor es una opción de litio, un sellador UV suficiente (30)."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Gektor Sucso"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
+      content : "Durante mucho tiempo estuve buscando algo para hidratar y nutrir la piel."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Kalista Tankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
+      content : "He estado usando la misma crema por tercer año ya. Relación calidad-precio ideal."
       rating : "four" # rating star, one to five
